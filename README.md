@@ -17,7 +17,7 @@ We recomend GNU C Compiler for this program
 Simply `cd` into the folder with the main code and then execute this command to compile the C code.
 
 ```
-gpp test.c -o test.exe
+gcc test.c -o test.exe
 ```
 
 ### Windows
