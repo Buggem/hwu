@@ -1,4 +1,4 @@
-msg = "Hello World!";
+let msg = "Hello World!";
 
 
 window.alert(msg);
